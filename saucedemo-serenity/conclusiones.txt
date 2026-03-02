@@ -1,0 +1,8 @@
+CONCLUSIONES
+
+- Se implementó una prueba E2E completa del flujo de compra.
+- Se utilizó Serenity/JS con patrón Screenplay para alta mantenibilidad.
+- Se implementó manejo dinámico de popup para evitar fallos intermitentes.
+- La arquitectura permite escalabilidad y reutilización de tareas.
+- El flujo fue validado hasta el mensaje final:
+  "THANK YOU FOR YOUR ORDER"
