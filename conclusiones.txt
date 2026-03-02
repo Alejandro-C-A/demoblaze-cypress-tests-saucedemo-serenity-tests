@@ -1,0 +1,4 @@
+- Signup service correctly creates new users.
+- Duplicate signup attempts return proper error messages.
+- Login validates credentials and returns an auth token.
+- Incorrect login attempts return error messages as expected.

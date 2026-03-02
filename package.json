@@ -1,0 +1,27 @@
+{
+  "name": "demoblaze-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro-C-A/demoblaze-cypress-tests-saucedemo-serenity-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alejandro-C-A/demoblaze-cypress-tests-saucedemo-serenity-tests/issues"
+  },
+  "homepage": "https://github.com/Alejandro-C-A/demoblaze-cypress-tests-saucedemo-serenity-tests#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "cypress": "^15.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
